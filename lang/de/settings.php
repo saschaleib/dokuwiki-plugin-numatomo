@@ -9,7 +9,7 @@ $lang['instance'] = "Instanz:";
 $lang['exclude'] = "Kein Tracking für:";
 $lang['exclude_o_none'] = "—";
 $lang['exclude_o_users'] = "Angemeldete Benutzer";
-$lang['exclude_o_admins'] = "Andemeldete Admins";
+$lang['exclude_o_admins'] = "Angemeldete Admins";
 
 $lang['_features'] = "Features:";
 $lang['feature-flags'] = "Feature flags:";
